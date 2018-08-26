@@ -1,0 +1,9 @@
+name: Cardinal-System
+version: 1.5.2
+description: Cardinal System A.I
+main: me.zerotwo.cardinal.Main
+authors: [ KiritoMC_, Cheatchki ]
+commands:
+  kit:
+   description: Get a kit created by the System
+   usage: /Kit <your kit>

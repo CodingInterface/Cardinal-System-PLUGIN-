@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: net.md-5:bungeecord-chat:1.12-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/bungeecord-chat/1.12-SNAPSHOT/bb29047b68ec39d64357aa6fadbcf23d6b957b8c/bungeecord-chat-1.12-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/bungeecord-chat/1.12-SNAPSHOT/758696195bd668d6277c3127388fc635c5ccdd4c/bungeecord-chat-1.12-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/bungeecord-chat/1.12-SNAPSHOT/1370a1125db10696b446abafb3da2510ca7be000/bungeecord-chat-1.12-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/bungeecord-chat/1.12-SNAPSHOT/4ad9f442db16bd4bf482951b395655ff610cbe53/bungeecord-chat-1.12-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/bungeecord-chat/1.12-SNAPSHOT/5eb9eef03b33a7cef63567ab1d83f49a2f34bc70/bungeecord-chat-1.12-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

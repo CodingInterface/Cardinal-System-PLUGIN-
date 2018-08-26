@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.destroystokyo.paper:paper-api:1.12.2-R0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.destroystokyo.paper/paper-api/1.12.2-R0.1-SNAPSHOT/dba65e79fedf9c9e8ca0263239b1eb185cc1cac1/paper-api-1.12.2-R0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.destroystokyo.paper/paper-api/1.12.2-R0.1-SNAPSHOT/d863a4bbb9778904b69bee26591a4ecc6b09d5ff/paper-api-1.12.2-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.destroystokyo.paper/paper-api/1.12.2-R0.1-SNAPSHOT/5d938aa874eb82691866ea7858fce642783fd96f/paper-api-1.12.2-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.destroystokyo.paper/paper-api/1.12.2-R0.1-SNAPSHOT/aa829dcc593af92295ae1ab4c9b1e30d840d39f5/paper-api-1.12.2-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.destroystokyo.paper/paper-api/1.12.2-R0.1-SNAPSHOT/b276b999de01a521c8effb929d6f8b63b4fb5d9e/paper-api-1.12.2-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.destroystokyo.paper/paper-api/1.12.2-R0.1-SNAPSHOT/d611a3c03c028554a2f48f9a6d992ddc68b3c328/paper-api-1.12.2-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.destroystokyo.paper/paper-api/1.12.2-R0.1-SNAPSHOT/f5c68e894689a44a9e157526703ed71d8adb3492/paper-api-1.12.2-R0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
